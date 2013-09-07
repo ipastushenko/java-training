@@ -1,0 +1,23 @@
+package ipastushenko.training;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+/**
+ * ResourceNotFoundException
+ * @author Ivan Pastushenko
+ * @version 1.0.0
+ * Date: 07.09.2013
+ */
+@ResponseStatus(value= HttpStatus.NOT_FOUND)
+public class ResourceNotFoundException extends RuntimeException {
+    private Long resourceId;
+
+    public ResourceNotFoundException(Long resourceId) {
+        this.resourceId = resourceId;
+    }
+
+    public Long getResourceId() {
+        return resourceId;
+    }
+}
