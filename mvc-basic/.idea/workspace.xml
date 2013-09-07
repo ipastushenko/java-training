@@ -2,97 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31c3a15a-3e00-4971-adba-e69280e81d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/buttons/icons/cross.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/doc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/external.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/feed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/im.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/buttons/icons/key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/buttons/icons/tick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/visited.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/icons/xls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ipastushenko/training/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ipastushenko/training/AccountController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_0_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_jsptags_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ipastushenko/training/ResourceNotFoundException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/createForm.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.dtd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/log4j.dtd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/messages_de.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/messages_es.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mvc-basic.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/buttons/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/fancy-type/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/rtl/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/buttons/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/fancy-type/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/link-icons/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/plugins/rtl/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/blueprint/src/typography.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/view.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/buttons/icons/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/external.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/im.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/buttons/icons/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/buttons/icons/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/visited.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/icons/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/account/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/account/AccountController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/test/java/ipastushenko/training/json/AccountJsonBindingTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/account/AvailabilityStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/json/ConversionServiceAwareObjectMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/json/ConvertingDeserializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/json/ConvertingSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/json/FormatAnnotationIntrospector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/json/JacksonConversionServiceConfigurer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__com_fasterxml_classmate_0_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_context_support_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_test_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_web_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/libraries/Maven__org_springframework_spring_webmvc_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/java/ipastushenko/training/account/ResourceNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/views/account/createForm.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/jquery-1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/resources/log4j.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/test/resources/log4j.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/resources/log4j.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/test/resources/log4j.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/messages/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/messages/messages_de.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/messages/messages_es.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/mvc-ajax.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/buttons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/fancy-type/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/rtl/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/buttons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/fancy-type/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/link-icons/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/plugins/rtl/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/resources/blueprint/src/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/src/main/webapp/WEB-INF/views/welcome.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mvc-ajax/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../configuration-basic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../configuration-basic/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mvc-basic.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378546866902" ignored="false" />
-    <file path="/pom.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378551604274" ignored="false" />
-    <file path="/Account.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378547874556" ignored="false" />
-    <file path="/AccountController.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378548775185" ignored="false" />
+    <file path="/Dummy.txt" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378553062252" ignored="false" />
+    <file path="/pom.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378572820566" ignored="false" />
+    <file path="/Account.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378561688236" ignored="false" />
+    <file path="/AccountController.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378573599693" ignored="false" />
     <file path="/ResourceNotFoundException.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378548962247" ignored="false" />
     <file path="/web.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378550147193" ignored="false" />
-    <file path="/servlet-context.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378550431431" ignored="false" />
+    <file path="/servlet-context.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378573985907" ignored="false" />
+    <file path="/log4j.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378553666919" ignored="false" />
+    <file path="/JacksonConversionServiceConfigurer.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378561448758" ignored="false" />
+    <file path="/ConversionServiceAwareObjectMapper.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378560604329" ignored="false" />
+    <file path="/FormatAnnotationIntrospector.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378560258018" ignored="false" />
+    <file path="/ConvertingDeserializer.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378574293257" ignored="false" />
+    <file path="/ConvertingSerializer.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378560079250" ignored="false" />
+    <file path="/AvailabilityStatus.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378562483486" ignored="false" />
+    <file path="/fragment.java" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378571828285" ignored="false" />
+    <file path="/createForm.jsp" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378565479639" ignored="false" />
+    <file path="$USER_HOME$/.IdeaIC12/config/options/debugger.frameview.xml" changelist="31c3a15a-3e00-4971-adba-e69280e81d06" time="1378566656129" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,19 +177,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0">
+            <state line="43" column="38" selection-start="1607" selection-end="1607" vertical-scroll-proportion="-0.74914867">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccountController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="112" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/AccountController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="12" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.5381166">
+            <state line="31" column="68" selection-start="999" selection-end="1000" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -239,18 +274,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages_de.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/messages_de.properties">
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -295,9 +318,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
+    <option name="y" value="54" />
     <option name="width" value="1920" />
-    <option name="height" value="1056" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -306,7 +329,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -521,6 +544,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -700,7 +727,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="0" y="54" width="1920" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -817,15 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/ResourceNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="13" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
@@ -883,13 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/createForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="30" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/view.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="7" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.0">
@@ -897,19 +908,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0">
+        <state line="50" column="112" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/account/createForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="30" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ipastushenko/training/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="12" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.5381166">
+        <state line="31" column="68" selection-start="999" selection-end="1000" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="38" selection-start="1607" selection-end="1607" vertical-scroll-proportion="-0.74914867">
+          <folding />
         </state>
       </provider>
     </entry>
